@@ -11,6 +11,7 @@ I'm Marek Baranowski.
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="left" alt="tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img align="left" alt="pytorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
 <img align="left" alt="adobexd" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" />
 <img align="left" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
 <img align="left" alt="docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
@@ -21,9 +22,9 @@ I'm Marek Baranowski.
 <br>
 
 ## Summary
-<img align="left" alt="nodejs" src="https://github-readme-stats.vercel.app/api?username=marekbaranowski98" />
+[![Marek Baranowski GitHub stats](https://github-readme-stats.vercel.app/api?username=marekbaranowski98)](https://github-readme-stats-nine-opal-95.vercel.app)
 
-<img align="left" alt="nodejs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marekbaranowski98" />
+[![Marek Baranowski GitHub Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marekbaranowski98)](https://github-readme-stats-nine-opal-95.vercel.app)
 
 <br>
 <br>
